@@ -1,3 +1,24 @@
 body {
-  background-color: blue;
+  background-color: gray;
+}
+header {
+  height: 100px;
+  background-color: #000000;
+  color: white;
+  font-family: sans-serif;
+}
+h1 {
+  margin: 0;
+
+}
+
+main {
+}
+
+footer {
+  text-align: left;
+}
+.wrapper {
+  width: 600px;
+  margin: auto;
 }
