@@ -17,7 +17,7 @@ h1 {
 
 main {
   font-family: 'Gloria Hallelujah', cursive;
-   
+
 
 }
 
@@ -28,6 +28,10 @@ footer {
   color: white;
 }
 .wrapper {
-  width: 1000px;
+  width: 200px;
   margin: auto;
+}
+
+.center {
+  text-align: center;
 }
